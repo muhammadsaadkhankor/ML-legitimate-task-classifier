@@ -81,3 +81,4 @@ All models generate:
 - Data folder is excluded from git tracking
 - SMOTE (BorderlineSMOTE) is applied for handling class imbalance
 - PyTorch models are saved as `.pth` files (also excluded from git)
+# ML-legitimate-task-classifier
